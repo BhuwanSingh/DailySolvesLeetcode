@@ -27,12 +27,12 @@ public:
             res = d;
             return;
         }
-        if(o->left){
+        if(o->left && res.empty()){
             d.push_back('l');
             dfs(o->left , t , d , res);
             d.pop_back();
         }
-        if(o->right){
+        if(o->right && res.empty()){
             d.push_back('r');
             dfs(o->right , t , d , res);
             d.pop_back();
