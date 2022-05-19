@@ -1,34 +1,38 @@
 class Solution {
 public:
     int longestIncreasingPath(vector<vector<int>>& matrix) {
-        int rows = matrix.size();
-        if (!rows) return 0;
-        int cols = matrix[0].size();
-        
-        vector<vector<int>> dp(rows, vector<int>(cols, 0));
-        
-        int ret = 0;
-        for (int i = 0; i < rows; ++i) {
-            for (int j = 0; j < cols; ++j) {
-                ret = std::max(ret, dfs(i, j , dp , matrix));
+        int n = matrix.size();
+        int m = matrix[0].size();
+        vector<vector<int>> lp(n , vector<int>(m , 0));
+        for(int i = 0; i < n ; i++){
+            for(int j = 0 ;  j < m ; j++){
+                if(lp[i][j] == 0){
+                    lp[i][j] =  dfs(matrix , lp , i , j , -1);   
+                }
+                // cout << lp[i][j] << " ";
+            }
+            // cout << "\n";
+        }
+        int maxval = 0;
+        for(auto i : lp){
+            for(int j : i){
+                maxval = max(maxval , j);
             }
         }
-        
-        return ret;
+        return maxval;
     }
     
-    int dfs(int x, int y , vector<vector<int>>& dp , vector<vector<int>>& matrix) {
-        int rows = matrix.size();
-        if (!rows) return 0;
-        int cols = matrix[0].size();
-        if (dp[x][y]) return dp[x][y];
-        vector<vector<int>> dirs = {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
-        for (auto &dir : dirs) {
-            int xx = x + dir[0], yy = y + dir[1];
-            if (xx < 0 || xx >= rows || yy < 0 || yy >= cols) continue;
-            if (matrix[xx][yy] <= matrix[x][y]) continue;
-            dp[x][y] = std::max(dp[x][y], dfs(xx, yy , dp , matrix));
-        }
-        return ++dp[x][y];
-    };
+    int dfs(vector<vector<int>>& matrix , vector<vector<int>>& lp , int x , int y , int las ){
+        if(x < 0 || x >= lp.size() || y < 0 || y >= lp[0].size() || las >= matrix[x][y] ) return 0;
+        if(lp[x][y]) return lp[x][y];
+        
+        int a = dfs(matrix , lp , x , y - 1 , matrix[x][y]);
+        int b = dfs(matrix , lp , x , y + 1 , matrix[x][y]);
+        int c = dfs(matrix , lp , x - 1 , y , matrix[x][y]);
+        int d = dfs(matrix , lp , x + 1 , y , matrix[x][y]);
+        
+        lp[x][y] = max( max(a , b) , max(c , d) ) + 1;
+        return lp[x][y];
+
+    }
 };
