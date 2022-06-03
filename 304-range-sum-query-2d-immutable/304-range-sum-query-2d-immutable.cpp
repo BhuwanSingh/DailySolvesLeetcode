@@ -1,6 +1,6 @@
 class NumMatrix {
 public:
-    vector<vector<int>>& pre;
+    vector<vector<int>> pre;
     
     NumMatrix(vector<vector<int>>& matrix) : pre(matrix) {
         for(int i = 0; i < matrix.size() ; i++){
