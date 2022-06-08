@@ -1,8 +1,7 @@
 class Solution {
 public:
     int surfaceArea(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int res = 0;        
+        int n = grid.size(), res = 0;        
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < n ; j++){
                 if(grid[i][j]) res += grid[i][j] * 4 + 2;
