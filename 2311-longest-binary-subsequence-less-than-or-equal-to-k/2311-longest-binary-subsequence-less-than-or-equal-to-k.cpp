@@ -1,15 +1,23 @@
 class Solution {
 public:
     int longestSubsequence(string s, int k) {
-        int n = s.size() , zeros = 0 , num = 0 , pow2 = 1 , len = 0;
-        for(auto i : s) if( i == '0') zeros++;
-        for(int i = n - 1 ; i >= 0 ; i--){
-            if(num + pow2 > k) break;
-            if( s[i] == '1' ) num += pow2;
-            else zeros--;
-            pow2 *= 2;
-            len++;
+        int n = s.size();
+        vector<int> zeros(n);
+        for(int i = 0 ; i < n ; i++){
+            zeros[i] = s[i] == '0' ? 1 : 0;
+            zeros[i] += (i > 0 ? zeros[i - 1] : 0);
+            // cout << zeros[i] << " ";
         }
-        return zeros + len;
+        int res = 1;
+        for(int i = n - 1 ; i >= 0 && n - i < 60 ; i--){
+            long long number = stoll( s.substr( i , n - i) , 0, 2);
+            if( number <= k ){
+                res = max( res , n - i + (i > 0 ? zeros[i - 1] : 0));
+            } else break;
+        }
+        // if( stoll( s , 0, 2) <= k ) res = n;
+        return res;
+        // cout << "\n";
+        return 0;
     }
 };
