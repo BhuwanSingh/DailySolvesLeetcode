@@ -5,7 +5,7 @@ public:
         for(auto i : hand)
             m[i]++;
         for(auto i : m)
-            if( m[i.first] > 0)
+            if( i.second > 0)
                 for(int j = g - 1; j >= 0 ; j--)
                     if( (m[i.first + j] -= m[i.first]) < 0 )
                         return false;
