@@ -7,6 +7,7 @@ public:
         int res = 0;
         for(int i = 0; i < boxTypes.size() ; i++){
             int k = min(truckSize , boxTypes[i][0]);
+            if(!k) break;
             res += k * boxTypes[i][1];
             truckSize -= k;
         }
