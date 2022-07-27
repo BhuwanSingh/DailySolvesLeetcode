@@ -10,16 +10,14 @@
  * };
  */
 class Solution {
+TreeNode* prev = nullptr;
 public:
     void flatten(TreeNode* root) {
         if(!root) return;
-        TreeNode* temp = root->left;
-        while(temp && temp->right){
-            temp = temp->right;
-        }
-        if(temp) temp->right = root->right;
-        if(root->left) root->right = root->left;
-        root->left = nullptr;
         flatten(root->right);
+        flatten(root->left);
+        root->right = prev;
+        root->left = nullptr;
+        prev = root;
     }
 };
