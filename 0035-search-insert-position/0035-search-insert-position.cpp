@@ -3,6 +3,6 @@ public:
     int searchInsert(vector<int>& nums, int target) {
         auto itr = lower_bound( nums.begin() , nums.end() , target);
         
-        return int(itr - nums.begin());
+        return (itr - nums.begin());
     }
 };
