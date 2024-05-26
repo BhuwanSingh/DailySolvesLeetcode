@@ -1,41 +1,25 @@
-const mod int64 = 1e9 + 7
-var dp[100001][2][3]int64
-
-
-func f(i , absent , late int ) int64 {
-    if absent >= 2 || late >= 3 {
-        return 0
-    }
-    
-    if i == 0 {
-        return 1
-    }
-    
-    if dp[i][absent][late] != -1 {
-        return dp[i][absent][late]
-    }
-    
-    ans := f(i-1 , absent , 0)
-    
-    if late < 2 {
-        ans += f(i - 1 , absent , late + 1)
-    }
-    
-    if absent == 0 {
-        ans += f(i - 1 , absent + 1 , 0)
-    }
-    
-    dp[i][absent][late] = ans % mod
-    return dp[i][absent][late]
-}
-
 func checkRecord(n int) int {
-    for i := 0 ; i <= n ; i++{
-        for j := 0; j < 2 ; j++ {
-            for k := 0 ; k < 3 ; k++{
-                dp[i][j][k] = -1
-            } 
-        }
+    if n == 1{
+        return 3
+    } else if n == 2 {
+        return 8
+    } else if n == 3 {
+        return 19
     }
-    return int(f(n , 0, 0))
+    
+    const mod = 1000000007
+    dp := make([]int , n + 1)
+    dp[0] , dp[1] , dp[2] , dp[3] = 1 , 2, 4 , 7
+    
+    for i := 4; i <= n ; i++ {
+        dp[i] = (dp[i - 1] + dp[i - 2] + dp[i - 3]) % mod
+    }
+    
+    withA := 0
+    
+    for i := 0; i < n ; i++ {
+        withA = (withA + dp[i]*dp[n - 1 - i] ) % mod
+    }
+    
+    return (dp[n] + withA) % mod
 }
