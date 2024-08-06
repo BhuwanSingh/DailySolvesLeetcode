@@ -1,21 +1,28 @@
 class Solution {
     public int minimumPushes(String word) {
-        Map<Character , Integer> charCount = new HashMap<>();
-        for(char c : word.toCharArray()){
-            charCount.put(c , charCount.getOrDefault(c , 0) + 1);
+        // Count the frequency of each letter
+        int[] freq = new int[26];
+        for (char c : word.toCharArray()) {
+            freq[c - 'a']++;
         }
         
-        PriorityQueue<Integer> freqHeap = new PriorityQueue<>(Collections.reverseOrder());
-        freqHeap.addAll(charCount.values());
+        // Sort the frequencies in descending order
+        Arrays.sort(freq);
         
-        int totalPresses = 0;
-        int keyPositions = 0;
+        int totalPushes = 0;
+        int multiplier = 1;
         
-        while(!freqHeap.isEmpty()){
-            totalPresses += (keyPositions / 8 + 1) * freqHeap.poll();
-            keyPositions++;
+        // Assign letters to keys, starting from the most frequent
+        for (int i = 25; i >= 0; i--) {
+            if (freq[i] == 0) break;
+            
+            if ((25 - i) % 8 == 0 && i != 25) {
+                multiplier++;
+            }
+            
+            totalPushes += freq[i] * multiplier;
         }
         
-        return totalPresses;
+        return totalPushes;
     }
 }
