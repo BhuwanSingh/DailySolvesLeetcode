@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
@@ -85,4 +86,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
