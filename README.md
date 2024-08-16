@@ -62,4 +62,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
