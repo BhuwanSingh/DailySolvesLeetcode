@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sliding Window
 |  |
@@ -74,10 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Memoization
 |  |
@@ -96,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
