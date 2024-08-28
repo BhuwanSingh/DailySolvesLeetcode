@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0921-spiral-matrix-iii) |
+| [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 ## String
 |  |
 | ------- |
@@ -155,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1325-path-with-maximum-probability) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
