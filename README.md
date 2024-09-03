@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0664-strange-printer) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## String Matching
 |  |
 | ------- |
