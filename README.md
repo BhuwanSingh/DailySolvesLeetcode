@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
