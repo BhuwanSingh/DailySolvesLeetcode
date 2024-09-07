@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 ## String
 |  |
@@ -183,5 +187,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
