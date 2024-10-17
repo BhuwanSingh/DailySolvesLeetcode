@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0670-maximum-swap) |
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
