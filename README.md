@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
