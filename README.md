@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0238-product-of-array-except-self) |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
