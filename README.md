@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
