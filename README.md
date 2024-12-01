@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0016-3sum-closest) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Greedy
 |  |
@@ -120,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0906-walking-robot-simulation) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
