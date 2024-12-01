@@ -1,12 +1,12 @@
-func twoSum(nums []int , target int ) []int{
-    m := make(map[int]int , len(nums))
-    var res []int
-    for i , num := range nums {
-        complement := target - num
-        if j , ok := m[complement]; ok {
-            return append(res , i , j)
+func twoSum(nums []int, target int) []int {
+    numToIndexMap := make(map[int]int)
+
+    for i , num := range nums{
+        diff := target - num 
+        if idx, found := numToIndexMap[diff]; found {
+            return []int{i , idx}
         }
-        m[num] = i
+        numToIndexMap[num] = i
     }
-    return res
+    return nil
 }
