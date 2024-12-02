@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,12 +177,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
