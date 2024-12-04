@@ -1,18 +1,14 @@
 func maxArea(height []int) int {
-    left := 0;
-    right := len(height) - 1;
-    
-    res := 0.0;
-    
-    for right >= left  {
-        if height[left] < height[right] {
-            res = math.Max( res , float64((right - left) * height[left]))
-            left++;
+    i , j := 0 , len(height) - 1
+    res := 0
+    for ; i <= j; {
+        if( height[i] < height[j] ){
+            res = int( max(float64(res) , float64(height[i] * ( j - i ) )))
+            i++
         } else {
-            res = math.Max( res, float64((right - left) * height[right]))
-            right--;
+            res = int( max(float64(res) , float64(height[j] * ( j - i ) )))
+            j--
         }
     }
-    
-    return int(res);
+    return res
 }
