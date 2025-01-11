@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0906-walking-robot-simulation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,4 +260,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
