@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -273,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
