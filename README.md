@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0906-walking-robot-simulation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0906-walking-robot-simulation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0650-2-keys-keyboard) |
@@ -297,4 +300,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
