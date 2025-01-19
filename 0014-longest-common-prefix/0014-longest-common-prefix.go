@@ -1,34 +1,15 @@
 func longestCommonPrefix(strs []string) string {
-    if len(strs) == 0 {
-        return ""
+    res := strs[0]
+    for i := 1 ; i < len(strs) ; i++ {
+        res = commonPrefix(res , strs[i])
     }
-
-    prefix := strs[0]
-
-    for _, str := range strs[1:] {
-        prefix = commonPrefix(prefix, str)
-        if prefix == "" {
-            break
-        }
-    }
-
-    return prefix
+    return res
 }
 
-func commonPrefix(str1, str2 string) string {
-    minLength := min(len(str1), len(str2))
-
+func commonPrefix(a string, b string) string {
     i := 0
-    for i < minLength && str1[i] == str2[i] {
+    for i < len(a) && i < len(b) && a[i] == b[i] {
         i++
     }
-
-    return str1[:i]
-}
-
-func min(a, b int) int {
-    if a < b {
-        return a
-    }
-    return b
+    return a[:i]
 }
