@@ -1,20 +1,19 @@
 func lengthOfLongestSubstring(s string) int {
-    temp := make(map[byte]int)
-    var l , r , res int = 0 , 0 , 0
     n := len(s)
-    for r < n {
-        // fmt.Print(l ,"," , r , " ")
-        if temp[ s[r] ] == 0{
-            temp[ s[r] ] += 1
-            r++
-        } else {
-            for temp[ s[r] ] != 0 {
-                temp[ s[l] ] -= 1
-                l++
-            }
+    maxLength := 0
+    lastIndex := make([]int, 128)
+    
+    start := 0
+    for end := 0; end < n; end++ {
+        currentChar := s[end]
+        if lastIndex[currentChar] > start {
+            start = lastIndex[currentChar]
         }
-        res = int(math.Max(float64(res) , float64(r - l) ))
+        if end-start+1 > maxLength {
+            maxLength = end - start + 1
+        }
+        lastIndex[currentChar] = end + 1
     }
-    // fmt.Print("\n")
-    return res
+    
+    return maxLength
 }
