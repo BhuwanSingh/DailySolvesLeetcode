@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0921-spiral-matrix-iii) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0392-is-subsequence) |
