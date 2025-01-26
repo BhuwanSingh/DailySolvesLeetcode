@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0906-walking-robot-simulation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0906-walking-robot-simulation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
