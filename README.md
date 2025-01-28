@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0068-text-justification) |
@@ -154,12 +155,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0921-spiral-matrix-iii) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0906-walking-robot-simulation) |
