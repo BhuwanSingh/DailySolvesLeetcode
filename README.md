@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0054-spiral-matrix) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0921-spiral-matrix-iii) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0189-rotate-array) |
