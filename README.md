@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0921-spiral-matrix-iii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0921-spiral-matrix-iii) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0242-valid-anagram) |
