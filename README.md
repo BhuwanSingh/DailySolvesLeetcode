@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0274-h-index) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0290-word-pattern) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Math
 |  |
