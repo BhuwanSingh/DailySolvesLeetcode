@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0392-is-subsequence) |
