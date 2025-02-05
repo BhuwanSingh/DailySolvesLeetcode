@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
@@ -399,4 +401,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
