@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0670-maximum-swap) |
+| [1236-n-th-tribonacci-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0664-strange-printer) |
+| [1236-n-th-tribonacci-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
