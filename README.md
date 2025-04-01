@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2448-count-number-of-bad-pairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2262-solving-questions-with-brainpower](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
