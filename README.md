@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0118-pascals-triangle) |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
