@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String Matching
 |  |
 | ------- |
