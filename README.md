@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3201-distribute-candies-among-children-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
@@ -503,8 +504,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
