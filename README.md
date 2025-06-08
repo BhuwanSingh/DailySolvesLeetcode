@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
 | ------- |
