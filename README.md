@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0048-rotate-image) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0073-set-matrix-zeroes) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0076-minimum-window-substring) |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2456-construct-smallest-number-from-di-string) |
