@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0169-majority-element) |
 | [2448-count-number-of-bad-pairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting Sort
 |  |
 | ------- |
