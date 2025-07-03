@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0264-ugly-number-ii) |
+| [0367-valid-perfect-square](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
