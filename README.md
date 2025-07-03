@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
