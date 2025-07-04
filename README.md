@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
 |  |
 | ------- |
