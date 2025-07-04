@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0921-spiral-matrix-iii) |
+| [1032-satisfiability-of-equality-equations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1240-stone-game-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1240-stone-game-ii) |
 | [1306-minimum-absolute-difference](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1306-minimum-absolute-difference) |
 | [1325-path-with-maximum-probability](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1325-path-with-maximum-probability) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0812-rotate-string) |
+| [1032-satisfiability-of-equality-equations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1325-path-with-maximum-probability) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1032-satisfiability-of-equality-equations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Linked List
