@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 ## String Matching
 |  |
 | ------- |
