@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0386-lexicographical-numbers) |
+| [0881-loud-and-rich](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0881-loud-and-rich) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2035-count-sub-islands) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0881-loud-and-rich](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0921-spiral-matrix-iii) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0881-loud-and-rich) |
 | [1032-satisfiability-of-equality-equations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1325-path-with-maximum-probability) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -564,4 +567,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
