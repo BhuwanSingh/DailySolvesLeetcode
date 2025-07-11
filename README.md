@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -571,4 +573,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0881-loud-and-rich](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0881-loud-and-rich) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
