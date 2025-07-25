@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 ## Two Pointers
 |  |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
