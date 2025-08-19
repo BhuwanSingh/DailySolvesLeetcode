@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BhuwanSingh/DailySolvesLeetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
