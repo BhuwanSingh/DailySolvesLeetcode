@@ -1,24 +1,32 @@
 class Solution {
-    Integer[][] dp;
-
     public int change(int amount, int[] coins) {
-        dp = new Integer[amount + 1][coins.length];
-        return combos(amount, coins, 0);
-    }
+        int n = coins.length;
+        long[][] dp = new long[n + 1][amount + 1];
 
-    public int combos(int amount, int[] coins, int x) {
-        if (amount == 0) return 1;
-        if (amount < 0 || x >= coins.length) return 0;
-
-        if (dp[amount][x] != null) return dp[amount][x];
-
-        int ways = 0;
-
-        for (int i = x; i < coins.length; i++) {
-            ways += combos(amount - coins[i], coins, i);
+        for ( int i = 0 ; i <= n ; i++) {
+            dp[i][0] = 1;
         }
 
-        dp[amount][x] = ways;
-        return ways;
+        for ( int i = 1 ; i <= amount ; i++) {
+            dp[0][i] = 0;
+        }
+
+        for ( int i = 1 ; i <= n ; i++ ) {
+            for ( int j = 1 ; j <= amount ; j++ ) {
+                dp[i][j] = dp[i - 1][j];
+                if ( j >= coins[i - 1] ) {
+                    dp[i][j] += + dp[i][j - coins[i - 1]];
+                }
+            }
+        }
+
+        // for(long[] x : dp) {
+        //     for (long y : x) {
+        //         System.out.print(y + " ");
+        //     }
+        //     System.out.println();
+        // }
+
+        return (int)dp[n][amount];
     }
 }
